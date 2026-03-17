@@ -6,7 +6,7 @@ params:
 ---
 
 {{% blocks/cover
-  title="Bem-vindo ao ambiente digital do colegiado de Agronomia do IFSertãoPE CPZR"
+  title="Ambiente digital da coordenação de Agronomia do IFSertãoPE CPZR"
   height="full td-below-navbar"
   image_anchor="top"
 %}}

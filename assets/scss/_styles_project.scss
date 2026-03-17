@@ -10,21 +10,6 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
 @import 'td/extra/buttons';
 @import 'td/extra/main-container';
 
-.td-cover-block {
-  display: flex;
-  align-items: center;     // centraliza vertical
-  justify-content: center; // centraliza horizontal
-  text-align: center;      // centraliza texto
-}
-
-.td-cover-block h1 {
-  font-size: 3.5rem;
-}
-
-.td-cover-block .lead {
-  font-size: 0.5rem;
-}
-
 .td-cover-block h1,
 .td-cover-block .lead {
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.75);
