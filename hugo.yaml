@@ -60,8 +60,6 @@ languages:
     title: agronomiapzr
     params:
       description: Agronomia
-  # cSpell:disable
-  # cSpell:enable
 
 markup:
   goldmark:

@@ -1,8 +1,8 @@
 ---
 title: About Goldydocs
-linkTitle: About
+linkTitle: Sobre
 description: A sample site using the Docsy Hugo theme.
-menu: { main: { weight: 10 } }
+menu: { main: { weight: 100 } }
 ---
 
 {{% blocks/cover

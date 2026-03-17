@@ -10,6 +10,51 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
 @import 'td/extra/buttons';
 @import 'td/extra/main-container';
 
+.td-cover-block {
+  display: flex;
+  align-items: center;     // centraliza vertical
+  justify-content: center; // centraliza horizontal
+  text-align: center;      // centraliza texto
+}
+
+.td-cover-block h1 {
+  font-size: 3.5rem;
+}
+
+.td-cover-block .lead {
+  font-size: 0.5rem;
+}
+
+.td-cover-block h1,
+.td-cover-block .lead {
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.75);
+}
+
+.td-navbar {
+  background-color: #2e7d32; // verde principal
+}
+
+.td-navbar .navbar-brand,
+.td-navbar .nav-link {
+  color: white !important;
+}
+
+.td-navbar .nav-link:hover {
+  color: #a5d6a7 !important; // verde claro
+}
+
+.td-navbar {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.td-navbar {
+  background: linear-gradient(90deg, #1b5e20, #2e7d32);
+}
+
+
+
+
+
 // Example of color tuning
 
 .td-box--primary {
@@ -20,4 +65,5 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
   a {
     color: tint-color($primary, 80%) !important;
   }
+
 }

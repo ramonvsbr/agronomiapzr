@@ -1,6 +1,6 @@
 ---
 title: Documentation
-linkTitle: Docs
+linkTitle: Salas de aula
 menu: { main: { weight: 20 } }
 ---
 

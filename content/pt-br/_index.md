@@ -6,7 +6,7 @@ params:
 ---
 
 {{% blocks/cover
-  title="Bem-vindo ao ambiente digital do colegiado de Agronomia do IFSertãoPE CPZR "
+  title="Bem-vindo ao ambiente digital do colegiado de Agronomia do IFSertãoPE CPZR"
   height="full td-below-navbar"
   image_anchor="top"
 %}}
@@ -23,14 +23,13 @@ params:
 
 <!-- prettier-ignore -->
 <div class="td-cta-buttons my-5">
-  <a {{% _param btn-lg primary %}} href="docs/">
-    Learn more
+  <a {{% _param btn-lg primary %}} href="about/">
+    Sobre
   </a>
   <a {{% _param btn-lg secondary %}}
-    href="{{% param github_repo %}}"
+    href="https://ifsertaope.edu.br/zonarural/"
     target="_blank" rel="noopener noreferrer">
-    IFSertãoPE CPZR
-    {{% _param FA solid seedling "" %}}
+    Institucional
   </a>
 </div>
 
@@ -80,14 +79,4 @@ For announcement of latest features etc.
 
 {{% /blocks/section %}}
 
-{{% blocks/section color="white" type="row text-center h1" %}}
 
-This is the second section
-
-{{% /blocks/section %}}
-
-{{% blocks/section color="secondary" type="row text-center h1" %}}
-
-This is the another section with center alignment
-
-{{% /blocks/section %}}
