@@ -1,5 +1,5 @@
 ---
-title: Goldydocs
+title: AgronomiaCPZR
 description: Tenha acesso a materiais de estudos, artigos, informações, projetos acadêmicos e eventos.
 params:
   body_class: td-navbar-links-all-active

@@ -1,5 +1,5 @@
 baseURL: https://example.docsy.dev
-title: agronomiapzr
+title: agronomiacpzr
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu slugorcontentbasename
 
@@ -57,9 +57,9 @@ imaging:
 languages:
   pt-br:
     languageName: Português (Brasil)
-    title: agronomiapzr
+    title: Agronomia CPZR
     params:
-      description: Agronomia
+      description: Ambiente digital da coordenação de Agronomia do IFSertãoPE CPZR
 
 markup:
   goldmark:
