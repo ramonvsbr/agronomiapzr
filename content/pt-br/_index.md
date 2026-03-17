@@ -1,12 +1,12 @@
 ---
 title: Goldydocs
-description: Porridge temperature assessment &mdash; in the cloud!
+description: Tenha acesso a materiais de estudos, artigos, informações, projetos acadêmicos e eventos.
 params:
   body_class: td-navbar-links-all-active
 ---
 
 {{% blocks/cover
-  title="Welcome to Goldydocs: A Docsy Example and Starter Project!"
+  title="Bem-vindo ao ambiente digital do colegiado de Agronomia do IFSertãoPE CPZR "
   height="full td-below-navbar"
   image_anchor="top"
 %}}
@@ -29,8 +29,8 @@ params:
   <a {{% _param btn-lg secondary %}}
     href="{{% param github_repo %}}"
     target="_blank" rel="noopener noreferrer">
-    Get the code
-    {{% _param FA brands github "" %}}
+    IFSertãoPE CPZR
+    {{% _param FA solid seedling "" %}}
   </a>
 </div>
 
