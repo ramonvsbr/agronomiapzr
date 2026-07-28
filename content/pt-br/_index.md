@@ -6,20 +6,10 @@ params:
 ---
 
 {{% blocks/cover
-  title="Ambiente digital da coordenação de Agronomia do IFSertãoPE CPZR"
+  title="Portal da coordenação de Agronomia do IFSertãoPE - CPZR"
   height="full td-below-navbar"
   image_anchor="top"
 %}}
-
-<!--
-  Want a cover without an image?
-  Add the following argument to the blocks/cover shortcode:
-    color="primary bg-gradient td-below-navbar"
--->
-
-<!-- prettier-ignore -->
-{{% _param description %}}
-{.display-6}
 
 <!-- prettier-ignore -->
 <div class="td-cta-buttons my-5">
@@ -39,44 +29,61 @@ params:
 
 {{% blocks/lead color="white" %}}
 
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+O portal da **Coordenação de Agronomia** do IFSertãoPE - Campus Petrolina Zona Rural
+(CPZR) reúne em um só lugar materiais de estudo, artigos científicos, projetos
+acadêmicos e informações sobre eventos do curso.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+Aqui você encontra o que precisa para acompanhar as disciplinas, se envolver em
+pesquisa e extensão, e ficar por dentro da vida acadêmica do curso de Agronomia.
 
 {{% /blocks/lead %}}
 
 {{% blocks/section color="primary" type="row" %}}
 
-{{% blocks/feature title="New chair metrics!" icon="fa-lightbulb" %}}
+{{% blocks/feature title="Salas de Aula" icon="fa-book" url="salas-de-aula/" %}}
 
-The Goldydocs UI now shows chair size metrics by default.
-
-Please follow this space for updates!
-
-{{% /blocks/feature %}}
-
-{{% blocks/feature
-  title="Contributions welcome!" icon="fab fa-github"
-  url="https://github.com/google/docsy-example"
-%}}
-
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
+Apostilas, slides, roteiros de aula prática e outros materiais organizados por
+disciplina e período, disponibilizados pelos docentes do curso.
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature
-  title="Follow us on X!" icon="fab fa-x-twitter"
-  url="https://x.com/docsydocs"
-%}}
+{{% blocks/feature title="Projetos Acadêmicos" icon="fa-seedling" url="projetos/" %}}
 
-For announcement of latest features etc.
+Conheça os projetos de ensino, pesquisa e extensão desenvolvidos por estudantes
+e professores da Agronomia no campus.
+
+{{% /blocks/feature %}}
+
+{{% blocks/feature title="Artigos Científicos" icon="fa-file-alt" url="artigos/" %}}
+
+Produções científicas de discentes e docentes: artigos, resumos de congressos
+e trabalhos de conclusão de curso.
 
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
 
+{{% blocks/section color="white" type="row" %}}
 
+{{% blocks/feature title="Eventos" icon="fa-calendar" url="eventos/" %}}
+
+Fique por dentro de semanas acadêmicas, palestras, visitas técnicas, feiras e
+demais eventos promovidos pelo curso.
+
+{{% /blocks/feature %}}
+
+{{% blocks/feature title="Fale com a Coordenação" icon="fa-envelope" url="contato/" %}}
+
+Dúvidas sobre o curso, estágio ou matrícula? Entre em contato com a
+Coordenação de Agronomia do CPZR.
+
+{{% /blocks/feature %}}
+
+{{% blocks/feature title="Siga no Instagram" icon="fab fa-instagram" url="https://www.instagram.com/" %}}
+
+Acompanhe o dia a dia do curso, bastidores de projetos e avisos rápidos no
+nosso perfil oficial no Instagram.
+
+{{% /blocks/feature %}}
+
+{{% /blocks/section %}}
