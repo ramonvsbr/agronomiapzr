@@ -37,8 +37,6 @@ A manometria trata da medição da pressão em fluidos, utilizando instrumentos 
 
 A hidrodinâmica estuda o comportamento dos fluidos em movimento, abordando conceitos como escoamento, velocidade e perda de carga. Esses princípios são fundamentais para o projeto e análise de sistemas hidráulicos em operação.
 
-{{< youtube 6sqSbXuB6Nk >}}
-
 ###### **Aula 08 – Hidrometria**
 
 A hidrometria envolve a medição e análise do comportamento dos corpos d’água, como rios e reservatórios. Esses dados são essenciais para o planejamento e a gestão de recursos hídricos e projetos hidráulicos.
@@ -50,25 +48,3 @@ A condução forçada trata do escoamento de fluidos em tubulações sob ação 
 ###### **Aula 10 – Acessórios de tubulações**
 
 Os acessórios de tubulações, como curvas, válvulas e conexões, desempenham papel importante no controle e direcionamento do fluxo em sistemas hidráulicos. Conhecer suas funções e características é essencial para o dimensionamento e manutenção das instalações.
-
-###### **Aula 11 - Perda de carga localizada**
-
-
-
-###### **Aula 12**
-
-###### **Aula 13**
-
-###### **Aula 14**
-
-###### **Aula 15**
-
-###### **Aula 16**
-
-###### **Aula 17**
-
-###### **Aula 18**
-
-###### **Aula 19**
-
-###### **Aula 20**

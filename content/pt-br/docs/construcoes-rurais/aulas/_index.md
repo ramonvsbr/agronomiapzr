@@ -37,8 +37,6 @@ A manometria trata da medição da pressão em fluidos, utilizando instrumentos 
 
 A hidrodinâmica estuda o comportamento dos fluidos em movimento, abordando conceitos como escoamento, velocidade e perda de carga. Esses princípios são fundamentais para o projeto e análise de sistemas hidráulicos em operação.
 
-{{< youtube 6sqSbXuB6Nk >}}
-
 ###### **Aula 08 – Hidrometria**
 
 A hidrometria envolve a medição e análise do comportamento dos corpos d’água, como rios e reservatórios. Esses dados são essenciais para o planejamento e a gestão de recursos hídricos e projetos hidráulicos.
