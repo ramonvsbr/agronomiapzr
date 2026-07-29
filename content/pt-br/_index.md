@@ -14,12 +14,12 @@ params:
 <!-- prettier-ignore -->
 <div class="td-cta-buttons my-5">
   <a {{% _param btn-lg primary %}} href="about/">
-    Sobre
+    <i class="fas fa-info-circle mr-2"></i> Sobre
   </a>
   <a {{% _param btn-lg secondary %}}
     href="https://ifsertaope.edu.br/zonarural/"
     target="_blank" rel="noopener noreferrer">
-    Institucional
+    <i class="fas fa-university mr-2"></i> Institucional
   </a>
 </div>
 
