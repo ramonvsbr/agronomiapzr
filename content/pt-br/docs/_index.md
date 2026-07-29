@@ -1,30 +1,40 @@
 ---
-title: Documentation
-linkTitle: Salas de aula
+title: Salas de Aula Virtuais
+linkTitle: Salas de Aulas
 menu: { main: { weight: 20 } }
 ---
 
-{{% pageinfo color="warning td-max-width-on-larger-screens mx-0" %}}
-
-This is a placeholder page. Replace it with your own content.
-dsadsa
+{{% pageinfo color="primary" %}}
+Bem-vindo ao nosso **Ambiente Virtual de Aprendizagem**! Aqui você encontrará todas as salas de aula virtuais, materiais de apoio, cronogramas e orientações para acompanhar as suas disciplinas.
 {{% /pageinfo %}}
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
+Esta seção serve como o ponto central de acesso aos nossos espaços de aprendizagem. Nossas salas foram organizadas de forma simples e intuitiva para facilitar a navegação, permitindo que você foque no que realmente importa: o seu aprendizado.
 
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the
-[Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if
-you'd like to copy its docs section.
+---
 
-Other content such as marketing material, case studies, and community updates
-should live in the [About](/about/) and [Community](/community/) pages.
+## 🗺️ Como Funciona o Nosso Ambiente
 
-Find out how to use the Docsy theme in the
-[Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to
-organize your documentation (and how we organized this site) in
-[Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
+Cada **Sala de Aula** conta com uma estrutura padronizada para ajudar você a se organizar durante o período letivo:
+
+- **Ementa e Conteúdo:** Apresentação dos tópicos que serão abordados na disciplina.
+- **Materiais de Estudo:** Apostilas, apresentações, artigos e links para download.
+---
+
+## 🚀 Como Começar
+
+1. **Navegue pelo Menu Lateral:** Escolha a sua disciplina ou turma na barra à esquerda.
+2. **Consulte o Cronograma:** Verifique as datas importantes e os prazos das atividades logo na página inicial de cada sala.
+3. **Baixe os Materiais:** Utilize os links de download disponíveis dentro do tópico da aula correspondente.
+
+---
+
+## 💡 Dicas para os Estudantes
+
+- **Acesse com frequência:** Verifique o ambiente semanalmente para não perder prazos ou novos comunicados.
+- **Organize seus estudos:** Baixe previamente os materiais de leitura recomendados para as aulas.
+- **Mantenha o foco:** Utilize o campo de busca no topo da página caso precise encontrar rapidamente algum tema ou conceito específico.
+
+{{% pageinfo color="info" %}}
+**Precisa de ajuda com o ambiente?**  
+Se você tiver dúvidas sobre o acesso às turmas, dificuldades na navegação ou inconsistências de conteúdo, entre em contato ou envie uma mensagem para o suporte da plataforma.
+{{% /pageinfo %}}
