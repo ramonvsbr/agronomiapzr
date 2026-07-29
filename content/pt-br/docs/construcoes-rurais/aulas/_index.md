@@ -9,13 +9,9 @@ weight: 6
 
 A hidráulica é o ramo da engenharia que estuda o comportamento dos fluidos, especialmente a água, em repouso ou em movimento. Seus princípios são aplicados em sistemas de abastecimento, drenagem, irrigação e outras áreas relacionadas ao controle de fluidos.
 
-<a href="https://docs.google.com/presentation/d/1i0hz7bg3hWFMao42Mt7WM8jRL38rmpxT/edit?usp=sharing&ouid=116198682984760549941&rtpof=true&sd=true" target="_blank">Clique aqui para abrir os slides</a>
-
 ###### **Aula 02 - Grandezas e unidades de medida**
 
 Grandezas e unidades são a base para a quantificação de fenômenos físicos. O Sistema Internacional (SI) padroniza essas unidades, permitindo a uniformidade e a consistência nas medições realizadas na engenharia e em outras ciências aplicadas.
-
-<a href="https://docs.google.com/presentation/d/1tdEkmRf3Vt2HdBG81El8LxvJhD11lPtd/edit?usp=sharing&ouid=116198682984760549941&rtpof=true&sd=true" target="_blank">Clique aqui para abrir os slides</a>
 
 ###### **Aula 03 - Propriedade dos fluidos**
 

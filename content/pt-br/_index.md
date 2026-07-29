@@ -40,7 +40,7 @@ pesquisa e extensão, e ficar por dentro da vida acadêmica do curso de Agronomi
 
 {{% blocks/section color="primary" type="row" %}}
 
-{{% blocks/feature title="Salas de Aula" icon="fa-book" url="salas-de-aula/" %}}
+{{% blocks/feature title="Salas de Aula" icon="fa-book" url="docs/" %}}
 
 Apostilas, slides, roteiros de aula prática e outros materiais organizados por
 disciplina e período, disponibilizados pelos docentes do curso.
@@ -65,21 +65,20 @@ e trabalhos de conclusão de curso.
 
 {{% blocks/section color="white" type="row" %}}
 
-{{% blocks/feature title="Eventos" icon="fa-calendar" url="eventos/" %}}
+{{% blocks/feature title="Calendário" icon="fa-calendar" url="docs/#links-rapidos" %}}
 
-Fique por dentro de semanas acadêmicas, palestras, visitas técnicas, feiras e
-demais eventos promovidos pelo curso.
+Acesse o calendário do semestre e saiba os horários das turmas e dos docentes.
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature title="Fale com a Coordenação" icon="fa-envelope" url="contato/" %}}
+{{% blocks/feature title="Fale com a Coordenação" icon="fa-envelope" url="about/#contato" %}}
 
 Dúvidas sobre o curso, estágio ou matrícula? Entre em contato com a
 Coordenação de Agronomia do CPZR.
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature title="Siga no Instagram" icon="fab fa-instagram" url="https://www.instagram.com/" %}}
+{{% blocks/feature title="Siga no Instagram" icon="fab fa-instagram" url="https://www.instagram.com/ifsertaope.petrolinazonarural" %}}  
 
 Acompanhe o dia a dia do curso, bastidores de projetos e avisos rápidos no
 nosso perfil oficial no Instagram.

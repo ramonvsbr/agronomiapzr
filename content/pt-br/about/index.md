@@ -65,27 +65,30 @@ menu: { main: { weight: 100 } }
 
 {{% blocks/section color="white" type="row" %}}
 
+<!-- Âncora de rolagem -->
+<a id="contato" style="display: block; position: relative; top: -100px; visibility: hidden;"></a>
+
 <div class="col-12 text-center mb-4">
-  <h2 class="display-10 fw-bold" style="color: #000000 !important;">
-    <i class="fas fa-map-marked-alt mr-2" style="color: #000000 !important;"></i> Atendimento
+  <h2 class="display-10 fw-bold">
+    <i class="fas fa-map-marked-alt mr-2"></i> Atendimento
   </h2>
 </div>
 
-<div class="col-12 col-lg-10 offset-lg-1 px-3 px-md-4 fs-5 lh-base" style="text-align: justify; color: #000000 !important;">
+<div class="col-12 col-lg-10 offset-lg-1 px-3 px-md-4 fs-5 lh-base" style="text-align: justify;">
 
-<p class="mb-3" style="color: #000000 !important;">
-  <i class="fas fa-map-marker-alt mr-2" style="color: #000000 !important;"></i>
-  <strong style="color: #000000 !important;">Endereço:</strong> PE 647, Km 22, PISNC N – 4, Zona Rural, Cx. Postal 49 – Petrolina/PE – CEP: 56300-000
+<p class="mb-3">
+  <i class="fas fa-map-marker-alt mr-2"></i>
+  <strong>Endereço:</strong> PE 647, Km 22, PISNC N – 4, Zona Rural. Bloco A - sala 3.
 </p>
 
-<p class="mb-3" style="color: #000000 !important;">
-  <i class="fas fa-envelope-open-text mr-2" style="color: #000000 !important;"></i>
-  <strong style="color: #000000 !important;">Contato da Coordenação:</strong> Dúvidas sobre matriz curricular, disciplinas, matrículas e estágios podem ser encaminhadas diretamente pela nossa <a href="../contato/" class="text-decoration-underline" style="color: #000000 !important;">página de contato</a>.
+<p class="mb-3">
+  <i class="fas fa-envelope-open-text mr-2"></i>
+  <strong>Contato da Coordenação:</strong> czr.coord.agro2025@ifsertao-pe.edu.br
 </p>
 
-<p class="mb-0" style="color: #000000 !important;">
-  <i class="fas fa-globe mr-2" style="color: #000000 !important;"></i>
-  <strong style="color: #000000 !important;">Portal Institucional:</strong> Para mais informações sobre o campus e a instituição, acesse <a href="https://ifsertaope.edu.br/zonarural/" target="_blank" rel="noopener noreferrer" class="text-decoration-underline" style="color: #000000 !important;">ifsertaope.edu.br/zonarural</a>.
+<p class="mb-0">
+  <i class="fas fa-globe mr-2"></i>
+  <strong>Portal Institucional:</strong> Para mais informações sobre o campus e a instituição, acesse <a href="https://ifsertaope.edu.br/zonarural/" target="_blank" rel="noopener noreferrer" class="text-decoration-underline">ifsertaope.edu.br/zonarural</a>.
 </p>
 
 </div>
